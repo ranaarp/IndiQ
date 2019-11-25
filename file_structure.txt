@@ -1,0 +1,9 @@
+Basic file structure: (please update this file when changes are being made to the file structure to keep it uniform)
+
+-TYPE OF MEETUP (ideally "<programming language>_<Country>_<date(if applicable)>")
+
+-----MEETUP NUMBER (ideally "QC_<10(meetup_number)>_<short description>")
+
+----------Learning_resources (ipython notebooks(with links to blogs, videos, books with marked chapters, etc)
+----------Presentations (preferably google docs, easy collaboration. source has to be mentioned when tagging a resource in the presentation to avoid copyright issues)
+----------(event specific resources, etc)
