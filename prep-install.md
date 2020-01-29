@@ -10,6 +10,7 @@ Each participant should bring a laptop with the following installed:
 - Jupyter notebook software, for example as instructed at https://jupyter.org/install
 - Qiskit, as instructed at https://qiskit.org/terra
 - Qiskit Aqua, as instructed at https://qiskit.org/aqua
+- Qiskit installation instuctions in a video format at https://www.youtube.com/watch?v=M4EkW4VwhcI
 
 ### Optional
 
